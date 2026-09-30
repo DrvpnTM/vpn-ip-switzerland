@@ -1,18 +1,17 @@
-# VPN IP Switzerland — Dr VPN
+# VPN IP Switzerland — Fast, Secure VPN for Switzerland
 
-**VPN IP Switzerland** is a fast, secure and free VPN for Android. Get a **Switzerland IP address**, unblock websites and apps, and protect your privacy on public Wi-Fi.
+**VPN IP Switzerland** is a free, open-source, ad-free VPN app for Android, built for users in Switzerland. It unblocks websites and apps, protects your privacy on public Wi-Fi, and gives you a fast, stable connection.
 
 ## Download
-- 📥 [Download VPN IP Switzerland (APK)](https://github.com/DrvpnTM/app/releases/download/countries-v0.1.4/DrVPN_ch_0.1.4_universal.apk)
-- 🌐 Website: [drvpn.net](https://drvpn.net)
-- 📢 Telegram: [@drVPN_net](https://t.me/drVPN_net)
+➡️ [Download the latest APK](https://github.com/DrvpnTM/vpn-ip-switzerland/releases/latest)
 
 ## Features
-- One-tap connect, automatic fastest-server selection
-- Switzerland IP address and servers in many other countries
-- VLESS, VMess, Trojan, Shadowsocks, Hysteria2, WireGuard
-- Works under heavy internet restrictions
-- Free and open source
+- One-tap connect, automatic server speed test
+- VLESS, VMess, Reality, Trojan, Shadowsocks, Hysteria2, WireGuard
+- Per-app proxy, routing rules, dark mode
+- Automatic updates
 
-## Keywords
-VPN Switzerland, Switzerland VPN, VPN IP Switzerland, Switzerland IP address, free VPN Switzerland, buy VPN Switzerland, fast VPN Switzerland, Dr VPN
+## Get a subscription
+🌐 [drvpn.net](https://drvpn.net/) · 📢 [Telegram @drVPN_net](https://t.me/drVPN_net)
+
+<sub>Keywords: VPN Switzerland, free VPN Switzerland, fast VPN, VPN IP Switzerland, Android VPN, unblock websites Switzerland.</sub>
